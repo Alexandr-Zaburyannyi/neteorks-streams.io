@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background: #f4f4f9;
+}
+
+textarea {
+    width: 100%;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+pre {
+    background: #fff;
+    padding: 15px;
+    border: 1px solid #ccc;
+    white-space: pre-wrap;
+}

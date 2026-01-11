@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# Except site folder
+!site/
+!site/**
+
+# Keep .gitignore itself
+!.gitignore
