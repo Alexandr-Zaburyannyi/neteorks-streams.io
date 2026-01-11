@@ -1,9 +1,10 @@
 # Ignore everything
 *
 
-# Except site folder
-!site/
-!site/**
+# Except web files
+!*.html
+!*.css
+!*.js
 
 # Keep .gitignore itself
 !.gitignore
